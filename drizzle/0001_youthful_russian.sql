@@ -1,1 +1,0 @@
-ALTER TABLE "resumeDetails" ADD COLUMN "url" text NOT NULL;
