@@ -15,7 +15,7 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>CoverIQ – AI, CoverIQ generates unique cover letters tailored to specific job descriptions</title>
-        <meta content="Example" name="description" />
+        <meta content="CoverIQ" name="CoverIQ generates unique cover letters tailored to specific job descriptions" />
         <meta property="og:url" content="example.com" />
         <meta property="og:description" content="Example" />
         <meta property="og:title" content="Example" />
